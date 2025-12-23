@@ -14,7 +14,7 @@ Este repositório contém:
 ├─ notebooks/ <br/>
 │ └─ iFood_Business_Case_Revisado.ipynb <br/>
 ├─ reports/ <br/>
-│ └─ Relatorio_Final_iFood_Cupons_FINAL.pdf <br/>
+│ └─ Relatório Final iFood Case.pdf <br/>
 └─ README.md
 
 
